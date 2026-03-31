@@ -3,8 +3,8 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/LiveifyWeb//_next/:path+",
-        "destination": "/LiveifyWeb/_next/:path+"
+        "source": "/Liveify//_next/:path+",
+        "destination": "/Liveify/_next/:path+"
       }
     ],
     "fallback": []

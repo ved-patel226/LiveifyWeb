@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[339756,["/LiveifyWeb/_next/static/chunks/0x.73w57rn4ou.js","/LiveifyWeb/_next/static/chunks/0i.l9589uvx0j.js"],"default"]
-3:I[837457,["/LiveifyWeb/_next/static/chunks/0x.73w57rn4ou.js","/LiveifyWeb/_next/static/chunks/0i.l9589uvx0j.js"],"default"]
+2:I[339756,["/Liveify/_next/static/chunks/0x.73w57rn4ou.js","/Liveify/_next/static/chunks/0i.l9589uvx0j.js"],"default"]
+3:I[837457,["/Liveify/_next/static/chunks/0x.73w57rn4ou.js","/Liveify/_next/static/chunks/0i.l9589uvx0j.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"w73Uwr2P1W8SyfMKVSU9r"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"KVdTUqRmigK2ZKH122hpz"}
