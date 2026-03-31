@@ -6,6 +6,7 @@ const withMDX = createMDX();
 const config = {
   output: 'export',
   basePath: "/LiveifyWeb",
+  assetPrefix: '/LiveifyWeb/',
   serverExternalPackages: ['@takumi-rs/image-response'],
   reactStrictMode: true,
 };

@@ -24,7 +24,7 @@ export default async function SongList() {
     <div className="space-y-4">
       <ul className="list-disc pl-5">
         {files.map((file) => {
-          const url = `/${encodeURI(file)}`;
+          const url = `/LiveifyWeb/${encodeURI(file)}`;
           return (
             <li key={file}>
               <p className="font-medium">{file}</p>
