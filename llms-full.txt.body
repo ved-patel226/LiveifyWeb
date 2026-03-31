@@ -1,0 +1,64 @@
+# Introduction (/docs)
+
+
+
+Some performed songs are just better. [#some-performed-songs-are-just-better]
+
+Just listen to the difference (esspecially if you're a carti fan):
+
+<div className="grid grid-cols-1 lg:grid-cols-2 gap-4 mt-4">
+  <iframe className="w-full aspect-video rounded-xl" src="https://www.youtube.com/embed/COwiRA5XkHQ?si=vJyJWKar9BDUoc7d&start=2081" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" />
+
+  <iframe className="w-full aspect-video rounded-xl" src="https://www.youtube-nocookie.com/embed/lQd-oFbTylc?si=VztsxcdjqCiL3wW6&start=7" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" />
+</div>
+
+The problem [#the-problem]
+
+There aren't always songs that have been performed live!!!
+
+Especially unreleased songs, which are often the best ones.
+
+We need a way to convert studio recordings into live performances, so we can enjoy the best versions of our favorite songs!
+
+The Solution [#the-solution]
+
+Create a neural network that can take in a studio recording and output a live performance version of the song!
+Aka. Liveify!
+
+
+# Results (/docs/results)
+
+
+
+
+
+<SongList />
+
+
+# Test it yourself! (/docs/tryit)
+
+
+
+BEWARE!! It takes quite a while to finish inference, if you're next in queue it would be \~6 minutes.
+
+<a
+  href="https://huggingface.co/spaces/ved-patel226/Liveify"
+  target="_blank"
+  rel="noopener noreferrer"
+  style="{
+  display: 'inline-flex',
+  alignItems: 'center',
+  justifyContent: 'center',
+  padding: '0.75rem 1rem',
+  borderRadius: '0.5rem',
+  border: '1px solid #9ca3af',
+  backgroundColor: '#1f2937',
+  color: '#fff',
+  cursor: 'pointer',
+  fontSize: '1rem',
+  fontWeight: 600,
+  textDecoration: 'none'
+}"
+>
+  Try it on HuggingFace
+</a>
